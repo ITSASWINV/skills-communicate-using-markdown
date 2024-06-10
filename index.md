@@ -5,4 +5,4 @@
 ##### College of Engineering Vadakara
 ###### IEEE SB CEV
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
